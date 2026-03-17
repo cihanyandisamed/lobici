@@ -11,8 +11,9 @@ _Learn about the person you're helping. Update this as you go._
 
 ## Context
 
-- Kısa ve net cevapları tercih ediyor.
-- Uzun yazılar istemiyor.
+- Kısa, net, tek cümlelik cevapları tercih ediyor.
+- Gereksiz açıklama ve uzun yazılar istemiyor.
+- Evet/hayır, aktif/değil gibi doğrudan cevaplar seviyor.
 
 ---
 
