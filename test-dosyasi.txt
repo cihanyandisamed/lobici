@@ -1,0 +1,2 @@
+Bu bir test dosyasıdır.
+Oluşturulma amacı: dosya yazma denemesi.
