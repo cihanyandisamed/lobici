@@ -4,6 +4,7 @@ _Learn about the person you're helping. Update this as you go._
 
 - **Name:**
 - **What to call them:** Samed
+- **Notes:** "Samed" diye hitap etmek uygun.
 - **Pronouns:** _(optional)_
 - **Timezone:**
 - **Notes:**
